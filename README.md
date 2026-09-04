@@ -7,7 +7,7 @@
 Pipeline to reduce texture folder size
 <br>under user input values > [download]
 
-[Object Color to Vertex Color Tag](./vsky.scripts/Object%20Color%20to%20Vertex%20Color.py)
+[download](./vsky.scripts/Object%20Color%20to%20Vertex%20Color.py)
 
 </p><br clear="left"></div>
 
