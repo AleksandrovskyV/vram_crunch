@@ -12,7 +12,6 @@ Designed as post-action for collected/packaged folders to resolve 'Out of VRAM' 
 
 
 * backup "Source Folder" always include ~
-
 <br>
 
 ## External connection 
