@@ -5,7 +5,7 @@
 <p style="margin-top: 12px ">
 ~ <strong>Experimental</strong><br><br>
 Pipeline to reduce texture folder size
-<br>under user input values > [download]
+<br>under user input values >
 
 [download](./vsky.scripts/Object%20Color%20to%20Vertex%20Color.py)
 
