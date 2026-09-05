@@ -16,3 +16,5 @@ Designed as post-action for collected/packaged folders to resolve 'Out of VRAM' 
 
 ## External connection 
 - Cinema4D / u can search [here](https://github.com/AleksandrovskyV/c4d)
+
+<br><br>
